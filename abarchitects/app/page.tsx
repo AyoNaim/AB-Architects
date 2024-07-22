@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Tab from "@/components/Tab";
 import About from "@/components/About";
+import Feedback from "@/components/Feedback";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Hero />
       <Tab />
       <About />
+      <Feedback />
     </main>
   );
 }

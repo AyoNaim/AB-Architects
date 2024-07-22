@@ -14,7 +14,8 @@ const About = () => {
                     Here at AB-Architects, our reputation preceeds us, we have constructed our client's dreams all over Nigeria, and we are looking forward to expanding our reach worldwide.
                     Here at AB-Architects, our reputation preceeds us, we have constructed our client's dreams all over Nigeria, and we are looking forward to expanding our reach worldwide.
                     Here at AB-Architects, our reputation preceeds us, we have constructed our client's dreams all over Nigeria, and we are looking forward to expanding our reach worldwide.
-                    Here at AB-Architects, our reputation preceeds us, we have constructed our client's dreams all over Nigeria, and we are looking forward to expanding our reach worldwide</p>
+                    Here at AB-Architects, our reputation preceeds us, we have constructed our client's dreams all over Nigeria, and we are looking forward to expanding our reach worldwide
+                  </p>
             </div>
         </div>
 
